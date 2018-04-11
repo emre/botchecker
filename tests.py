@@ -27,3 +27,5 @@ class BotCheckerTests(unittest.TestCase):
         self.assertEqual(bot.account, "postpromoter")
 
 
+if __name__ == '__main__':
+    unittest.main()

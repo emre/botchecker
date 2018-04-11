@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='steem_bot_checker',
-    version='0.0.1',
+    version='0.0.2',
     packages=["botchecker",],
     url='https://github.com/emre/botchecker',
     license='MIT',
