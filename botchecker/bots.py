@@ -161,5 +161,10 @@ other_bots = {
     'ottoman',
     'resteemr',
     'minnowbooster',
-    'smartmarket'
+    'smartmarket',
+    'candyboy',
+    'treasureteam',
+    'jumbot',
+    'anadolu',
+    'arafs'
 }
