@@ -163,7 +163,6 @@ other_bots = {
     'minnowbooster',
     'smartmarket',
     'candyboy',
-    'neoxian',
     'treasureteam',
     'jumbot',
     'anadolu',
